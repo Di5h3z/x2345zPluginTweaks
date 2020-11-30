@@ -1,0 +1,5 @@
+name: x2345zPluginTweaks
+main: x2345z.PluginTweaks.PluginTweaksMain
+version: 1.0.1
+api-version: 1.16
+commands:
