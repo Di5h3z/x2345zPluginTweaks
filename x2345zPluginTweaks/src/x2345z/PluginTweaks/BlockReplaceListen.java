@@ -18,9 +18,9 @@ public class BlockReplaceListen implements Listener{
 			target.setBlockData(target.getBlockData());
 			
 			event.getItem().setAmount(event.getItem().getAmount()-1);
-			
+			  
 		}
-		
+		 
 		 
 	}
 	
