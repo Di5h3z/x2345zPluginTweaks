@@ -6,7 +6,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/natha/Downloads/spigot-api-1.16.4-R0.1-20201125.232430-26.jar">
+	<classpathentry kind="lib" path="/Users/ncarels/eclipse-workspace-java/x2345zPluginTweaks/spigot-api-1.18.1-R0.1-SNAPSHOT.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
